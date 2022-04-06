@@ -9,6 +9,11 @@ Explain the problem statement
 
 ## PEAS DESCRIPTION
 
+Agent Type  | Performance | Environment | Actuators | Sensors |
+------------- | ------------- | ------------- | ------------- | -------------- |
+Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell |
+
+
 ## DESIGN STEPS
 ### STEP 1:
 Identifying the input:
