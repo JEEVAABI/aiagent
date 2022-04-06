@@ -9,13 +9,6 @@ Explain the problem statement
 
 ## PEAS DESCRIPTION
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-
-
 ## DESIGN STEPS
 ### STEP 1:
 Identifying the input:
