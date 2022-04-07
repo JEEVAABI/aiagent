@@ -11,7 +11,7 @@ Explain the problem statement
 
 Agent Type  | Performance | Environment | Actuators | Sensors |
 ------------- | ------------- | ------------- | ------------- | -------------- |
-Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell |
+ | Medicine prescribing agent | Treating unhealthy , agent movement | Rooms , Patient | Medicine | Location , Treatment |
 
 
 ## DESIGN STEPS
